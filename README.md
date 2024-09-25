@@ -8,7 +8,6 @@ This project implements an image caption generator using Convolutional Neural Ne
 - [Installation](#installation)
 - [Usage](#usage)
 - [Model Training](#model-training)
-- [License](#license)
 
 ## Features
 - Generates descriptive captions for images.
